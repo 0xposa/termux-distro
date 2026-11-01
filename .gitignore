@@ -1,0 +1,8 @@
+# Temporary and runtime files
+*.tmp
+*.log
+*~
+.DS_Store
+
+# User configuration
+.config/
