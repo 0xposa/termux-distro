@@ -3,6 +3,7 @@
 ## 1. Overview & Architecture
 - **Project**: Termux Distro Manager (`tdistro` / `termux-distro`)
 - **Directory**: `/data/data/com.termux/files/home/projects/termux-distro` (symlink `ternux-distro`)
+- **GitHub Repository**: [https://github.com/0xposa/termux-distro](https://github.com/0xposa/termux-distro) (Public)
 - **Design Philosophy**: High-aesthetic cyberpunk ASCII banner restored, clean box-drawing layout, zero emojis, professional CLI/TUI aesthetics.
 - **Multilingual Engine**: Full trilingual localization in English (`en`), Bahasa Indonesia (`id`), and Mandarin / Simplified Chinese (`zh`).
 - **Core Modules**:
